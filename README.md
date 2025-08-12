@@ -36,8 +36,9 @@ To provide a **lightweight, developer-friendly starting point** for NFT-based pr
 
 ### **5. Contract Address**
 
-`ST1234EXAMPLENFTMINT5678ADDR`
-*(Replace with actual address after deployment)*
+`ST7XXGQK9Z9FBFAD30P6MP91BR2EEHCJMVZJJ9A2A.nft-minting-app`
+
+<img width="1915" height="856" alt="image" src="https://github.com/user-attachments/assets/14ae617f-114e-41f4-8352-bd0313ec5417" />
 
 ---
 
