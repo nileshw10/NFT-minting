@@ -1,5 +1,4 @@
 # NFT Minting App
-
 ### **1. Project Title**
 
 **NFT Minting App on Stacks Blockchain**
